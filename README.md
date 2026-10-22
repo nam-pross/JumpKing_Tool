@@ -1,5 +1,5 @@
 ﻿# JumpKing_Tool
-Bi kip tan gai:
+Bi kip tan gai cua ban Khanh:
 
 -B1: Vuot mat 1 ban chay trc minh
 
